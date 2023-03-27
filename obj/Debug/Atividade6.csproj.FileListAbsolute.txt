@@ -1,0 +1,8 @@
+H:\Julio\Atividade6\bin\Debug\Atividade6.exe.config
+H:\Julio\Atividade6\bin\Debug\Atividade6.exe
+H:\Julio\Atividade6\bin\Debug\Atividade6.pdb
+H:\Julio\Atividade6\obj\Debug\Atividade6.csproj.AssemblyReference.cache
+H:\Julio\Atividade6\obj\Debug\Atividade6.csproj.SuggestedBindingRedirects.cache
+H:\Julio\Atividade6\obj\Debug\Atividade6.csproj.CoreCompileInputs.cache
+H:\Julio\Atividade6\obj\Debug\Atividade6.exe
+H:\Julio\Atividade6\obj\Debug\Atividade6.pdb
